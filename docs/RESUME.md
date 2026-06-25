@@ -2,7 +2,7 @@
 
 > 执业律师 · 法律 AI 产品实践者 · 法律数据产品经理（候选人）
 
-**电话：** ______ | **邮箱：** ______ | **所在地：** 广东珠海
+**电话：** 13356422331 | **邮箱：** 13356422331@163.com | **所在地：** 广东珠海
 **GitHub：** [github.com/bb4407777/LawLink](https://github.com/bb4407777/LawLink) · [github.com/bb4407777/legal-ai-portfolio](https://github.com/bb4407777/legal-ai-portfolio)
 
 ---
